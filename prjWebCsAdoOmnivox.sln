@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjWebCsAdoOmnivox", "prjWebCsAdoOmnivox\prjWebCsAdoOmnivox.csproj", "{FB271E72-DC21-4BA6-85C3-C3EB0206E0A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB271E72-DC21-4BA6-85C3-C3EB0206E0A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB271E72-DC21-4BA6-85C3-C3EB0206E0A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB271E72-DC21-4BA6-85C3-C3EB0206E0A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB271E72-DC21-4BA6-85C3-C3EB0206E0A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CD6C751-99E1-4C50-8AE4-B9A315B3363C}
+	EndGlobalSection
+EndGlobal
